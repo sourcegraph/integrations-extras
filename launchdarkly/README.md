@@ -30,10 +30,6 @@ The LaunchDarkly integration does not include any service checks.
 
 Need help? Contact [LaunchDarkly Support][4].
 
-## Support
-
-Ths is a support line.
-
 ## Further Reading
 
 Learn more about [LaunchDarkly][5] and this integration [here][3].

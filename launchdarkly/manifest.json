@@ -39,10 +39,5 @@
         "metadata_path": "assets/service_checks.json"
       }
     }
-  },
-  "pricing": [
-    {
-      "billing_type": "free"
-    }
-  ]
+  }
 }
